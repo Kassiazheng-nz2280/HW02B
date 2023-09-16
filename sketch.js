@@ -4,6 +4,7 @@ function setup() {
 }
 
 function draw() {
+    
     noStroke();
     
     fill(50,113,60);
@@ -20,5 +21,6 @@ function draw() {
     
     fill(3,13,51);
     quad(470,808,831,990,773,1101,410,927);
+
 
 }
